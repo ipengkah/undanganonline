@@ -1,0 +1,20 @@
+2021-04-05 10:33:34,672 INFO o.s.b.StartupInfoLogger [restartedMain] Starting LovelyDayApplication using Java 15.0.2 on LAPTOP-RN2UGBKR with PID 8660 (D:\lovelydayidbackendnew-workspace\lovelydayidbackendnew\target\classes started by Danamas in D:\lovelydayidbackendnew-workspace\lovelydayidbackendnew)
+2021-04-05 10:33:34,679 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-04-05 10:33:36,149 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2021-04-05 10:33:36,149 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-04-05 10:33:36,150 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-05 10:33:36,230 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-04-05 10:33:36,275 INFO c.z.h.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-04-05 10:33:45,897 INFO c.z.h.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-04-05 10:33:46,345 INFO o.h.j.i.u.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-05 10:33:46,679 INFO o.h.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-05 10:33:47,220 INFO o.h.a.c.r.j.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-05 10:33:47,742 INFO o.h.d.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2021-04-05 10:34:01,569 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-05 10:34:01,978 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-05 10:34:02,349 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2021-04-05 10:34:02,377 INFO o.s.b.StartupInfoLogger [restartedMain] Started LovelyDayApplication in 27.966 seconds (JVM running for 29.088)
+2021-04-05 10:34:08,672 INFO o.a.j.l.DirectJDKLog [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-05 10:47:04,734 WARN o.a.j.l.DirectJDKLog [http-nio-8081-exec-3] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [189] milliseconds.
+2021-04-05 13:54:25,284 INFO c.z.h.HikariDataSource [RMI TCP Connection(230)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2021-04-05 13:54:31,424 INFO c.z.h.HikariDataSource [RMI TCP Connection(230)-127.0.0.1] HikariPool-1 - Shutdown completed.
